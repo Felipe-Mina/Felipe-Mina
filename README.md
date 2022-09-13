@@ -10,7 +10,7 @@
 <h3 align="left">¿Por que yo?🤔</h3>
 <p>
 💎Destaco por mi capacidad de colaboración y liderazgo, mi paciencia es inquebrantable y ofrezco a los problemas una solución limpia e imparcial.<br/>
-💎Tengo una alta facilidad tanto para integrarme a nuevos equipos de trabajo como para integrar a nuevos integrantes a grupos y tareas.<br/>
+💎Tengo una alta facilidad tanto para integrarme a nuevos equipos de trabajo como para integrar a nuevos compañeros a grupos y tareas.<br/>
 💎Nunca dudo de mis capacidades técnicas y afronto mis carencias con una alta capacidad de comprensión y aprendizaje estando siempre dispuesto y activo con mi evolución intelectual.<br/>
 </p>
 <h3 align="left">Mi Vida Laboral🦸‍♂️</h3>
